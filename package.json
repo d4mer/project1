@@ -1,0 +1,11 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "very siple server",
+  "main": "nodeServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed Arellano",
+  "license": "GPL-3.0"
+}
